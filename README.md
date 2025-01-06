@@ -9,12 +9,17 @@ Supports both grayscale and color images.
 Provides side-by-side results of the custom CLAHE implementation and OpenCV's built-in CLAHE function.
 
 ##  Requirements
-• Python 3.x
-• OpenCV
-• NumPy
-• Matplotlib
-code: pip install numpy opencv-python matplotlib
+```
 
+• Python 3.x  
+• OpenCV  
+• NumPy  
+• Matplotlib  
+```
+To install the required libraries, run the following command:  
+```bash
+pip install numpy opencv-python matplotlib 
+```
 ## Usage
 •  Clone this repository:
 git clone https://github.com/yourusername/clahe-implementation.git
