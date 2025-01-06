@@ -10,7 +10,6 @@ Provides side-by-side results of the custom CLAHE implementation and OpenCV's bu
 
 ##  Requirements
 ```
-
 • Python 3.x  
 • OpenCV  
 • NumPy  
