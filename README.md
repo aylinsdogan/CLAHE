@@ -21,7 +21,7 @@ pip install numpy opencv-python matplotlib
 ```
 ## Usage
 •  Clone this repository:
-```bash
+```
 git clone https://github.com/yourusername/clahe-implementation.git
 cd clahe-implementation
 python clahe.py
