@@ -21,9 +21,11 @@ pip install numpy opencv-python matplotlib
 ```
 ## Usage
 •  Clone this repository:
+```bash
 git clone https://github.com/yourusername/clahe-implementation.git
 cd clahe-implementation
 python clahe.py
+```
 Place your input image (1.jpg) in the same directory
 The script reads an image, applies CLAHE using both custom and OpenCV implementations, and displays the results.
 
